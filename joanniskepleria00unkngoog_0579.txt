@@ -1,0 +1,67 @@
+aas . ’ aarum·
+
+AB: uti ita triangula in area mrmh insint infinita, omnia verticibus
+in oeritro A coeuntia. Extendatur igitur circumferentia circuli BG in
+¹ rectum, et sit Bc aequalis illi, et ΑΒ ad illam perpendicularis, Erunt
+igitur infinitorum illorum triangulorum seu sector-mn bases imaginatae
+omnes in una reeta BG, juxta invicem ordinatae: sit una talium basium
+Bl' quantulacunque eique aequalis GE, connectantur autem puncta F,
+Ε,Ὀ cum A. Quia igitur trhngrda ΑΒΕ, Aac totidem sunt super
+rettulit), quot sectoroe in area cumuli, et bases BF, Ec aequales illis,
+et omnium eommunis altimdo ΒΑ, quae etiamest sectorum: uianguh
+igitur mc, ΒΑΕ erunt aequalia et quodlibet aequabit unum sectorem
+circuli3 et omma simul in linea Bc bases habentia, id est triangrdum
+Bac, ex omnibus illis constans, aequabit sectores circuli omnes, id est
+aream circuli ex omnihus constantem Hoc sibi vult illa Archimeden
+ad impossibile deductio ³).
+
+Divisa igitur Bc bifariam in H, liat ΑΒΗΙ) parallelogrammum, ut
+DH secet lc in Ι. Erit hoe parallelogrammum reetangulum aequale
+areae circuli. Nam ut ΟΒ tota ad GH dimidiam, ita et AB, id est
+ΒΗ tota ad ΙΗ dimidiam. Igitur ΙΗ aequat ID et Hc aequat DA,
+id est ΗΒ, et anguli od l aequales, D·vero et H recti Triangulum
+igitur IGH, quod est exus parallelogrammum, aequale est triangulo
+ΙΑΙ), quo parallelogrammum excedit trapezium AIHB.
+
+Cum igitm diameter (ΞΒ ponatur esse partimu 7, quadratum dia·
+metri erit 49. Et cum harum partium 22 sintin circumferentia, sc.
+in BG, dimidia BH habebit earmn 11, paulo minus· ut snpra Duc ll
+in semidiametnnu 3¹1¹, se. in AB: fiet rectangulum ΑΗ 3811ιῖ
+
+· Qualium ergo quadratum diametri hahet 49, talium area circuli iuscr. h. usu.
+· bis 98 .......... 'll
+
+. Divisi per 'l anime 14 ......... ll.
+Quod erat demomtrandum.
+
+corollarium l. Sectoris in circulo (constituitur rectis ex centro et ex
+1 arcu intercepto) area ert aequalis rectangmo suh semidiametro et dimidio arcu.
+
+Corollarium 2. Segmenti cuculi minoris (portio est per unam rectam
+recisa) area minor est sectoris area triangulo sub sectoris et segmenti rectis
+comprehenso: segmenti majoris area tanto major est secttre suo. Demonstrstur
+autem in geometricis, rectangulum sub perpendiculo trianguli et dimidia ιεοιίοιιίι
+linea aequale esse areae trianguli. ablato igitur plano hqjm trianguli ab area
+sectoris, restat area segmenti minoris, sed addito, majoris segmenti area constituitur.
+
+ln schemate l. DABE est sector minor, DABCD mqjort DGBE segmentum
+minus, 1)ch majus3 DBA triangulum, quo sector a segmento differt. ld habet
+duas partes aequales et congruas, Aca, AGD. apposito igitur angusto DAG ed
+GBA‚ sic ADG ad ΕΑΒ, fit reetangulum altitudine AG, latitudine GB. ·Et dicit-ur
+
+in triangulorum doctrina GB sinus meus ΕΒ dimidii, Ga sinus ejus complectenti. ,
+Episagma 1. Circuto commune hoc est cum parabola, quod in utraque l
+
+portiones quomodocunque per unam rectam obscum, si aequales habuerint dia·
+metros, et ipsae inter se in qualibet figura sint aequales. (Arabim. de Conoid. lv.)
+
+Episagma 2. Paraboles area est sesquitertia areae trianguli, habentis
+eandem cum parabola basin rectam et eandem altitudinem. (arch. de Quadr.
+Parabolae Prop. 17 et 24.)
+
+Episagma 3. Ellipsii area ad aream circuli est ut minor ellipsis diameter .
+ad majorem. Et ut circulus nd quadratum diametri, sic ellipsis nd rectangulum
+diametqrum, seilicet etiam ut ll od 14 lere. (arch. Sphaeroid. l-l.)
+
+ 
+

@@ -1,0 +1,94 @@
+stereometriu nolu Austriaei. 613
+
+Definitio.
+
+Cylinder et trunci conici conjugati dicautur. quando sectionibus
+
+utrorumque per axem fuerit eadem vel aequales diagonii, et ut diame-
+ter basis cylindri ad ejus altitudinem, sic diametri minoris basis trun-
+
+corum ad eorum latera acclinia.
+
+Tlreorema Vl. Problema.
+
+Dato cylindro et trunci corrinpati latero, oet basis minoris diametro,
+invenire trunci oorp'npati lineae reliquae. Oportet certene proportionem
+zoora ael boris in cylindro ad datam lotae ael bama 1111111111-
+norem proportione diametri et altitudinis cylindri junctarum ad diaponiam.
+
+Datus esto cylinder AGCX, basis diametro CG, altitudine GA,
+
+diagonio AC: et trunci datu
+
+esto diameter basia CT, et pro· γ
+
+portio CG ad CT sit minor
+
+proportione OG, GA junctarum
+
+ad CA. Oportet invenire latua ’
+
+munci 11 diametrum basin
+
+majoris. Fiat ut OG ad GA,
+
+sic GT ad aliquem, puta AT,
+
+et anper CA struatur trian- 1
+
+gulum 111 GT, AT. Nam quia
+
+proportio OG, (iA ad ΟΛ 111
+
+major quarn proportio OG ad
+
+CT, erit etiam umjor quarn
+
+GA ad AT, et junctis terminis,
+
+major erit proportio OG, GA
+
+ad CA, quam earundem OG,
+
+GA ad CT, TA. Ac proinde
+
+CT, TA junctae majores erunt
+
+quam GA, poterit igitur fien’
+
+triangulum ex OT, TA super i
+
+CA.. Scribatur autem circulus eirea Ο, Τ, A puncta, 1111 G ipsi TA
+
+aequalis extensa applicetur circulo inV, 11 connectantur A, V, dico
+
+TA, CV 1111 trunci conjugati latera acclinia, AV diametrum basis majoma.
+Connexis enim T, V punctio, eum TA sit ipsi CV aequalis, oom-
+
+muni arcu TC apposito ad arcus TA et CV, erunt arcus AC, TV ee·
+
+qualee, proinde 11 1111111111 AC, TV aequalea, et angulus ATC angulo
+
+VCT aequalis; quadrilaterum igitur ATCV crit ordinatum et circulo
+
+inscriptum, eadem diagonio AC vel TV oum parallelogramma Acon,
+
+11 eadem proportione CT orl TA, quae est GG ad GA. Truncus igitur, cujus
+
+sectio per axem ATCV, et cylinder, eujus sectio AGGX, conjugati eruut.
+
+Theorema Vll.
+
+Si suerint cylinder et truncus corcione conjnpati, 11 differentia diurne-
+
+norun in 11111111 1111111 secetur in proportione, quarn labero inter ee
+
+quadrata diametri 11111111 altitudinis cylindri, erit loc* dicoretri 111·
+
+drotum aequale rectanpnlo eni minore dioroetro 1111111 11 aral composita
+11 loc 11 sepmento, qnod diametro cylindri respondet.
+
+Sit AGOX cylindri sectio, diagonios Ao: dividat autem hunc per·
+
+ 
+

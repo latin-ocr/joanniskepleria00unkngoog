@@ -1,0 +1,64 @@
+Sternumenta Dolil Austriaci. , 611
+
+narum est maximus, cylinder igitur AGO, oubo sphaerae circumscriptus,
+omnium aliorum, cylindrorum in sphaera, ut AIC, maximus εει.
+Eadem demonstratio potest etiam per schema 22. in huno modum
+institui. Cylindri tres terminentur iu H, G, B, punctis, eandem haben·
+ιεε diagonion GA, bases ΟΗ,’ OG, ΟΒ, altitudines HA, GA, BA. Sit
+autem quadratum OG duplum quadrati GA, et CH brevior, ΟΒ longior
+ipsa ΟΟ. Descendunt perpendiculares in ΟΑ, quae sint HM, GL, ΒΚ.
+Οειιι igitur CGA rectus, erit ut quadratum OG ad quadratum GA','sic ·
+
+recta ΟΒ ad rectem LA, dupla scilicet ejus3 et ut quadratum CH nd ¹
+
+quadratum HA, sic ΟΜ ad MA, et ιιι quadratum ΟΒ ad quadratum
+BA, sio ΟΚ ad KA. Ut vero quadr'at'a GH, CG, ΟΒ inter se, sic
+sunt etiam bases cylindrorum circulares inter se. Quare ut ΟΜ, ΟΒ,
+CK inter se, sio etiarn suut bases cylindrorum inter se. Componitur
+autem proportio cylindrorum ex proportione basium et proportione
+altitudinum. Ergo rectaugula tria sub ΟΜ, ΟΒ, CK, quae habent pro·
+portionem basium, et sub HA, GA, BA altitudinibus, habent iuter se
+proportionem cylindrorum. Permutatim autem, ut AM, AL, ΑΚ ιιιιει·
+εε, sio 'suut inter se etiam quadrata altitudinum AH, AG, AB. Βει
+igitur quantitas eadem LM, quae adjicitur ad LA et aufertur ab ΒΟ;
+ει vicissim quantitas est eadem LK, quae aufertur ab LA et adjicitur
+ad ΒΟ. Οιιιιι autem ΟΒ ειι dupla ipsius LA, proportio igitur ΟΜ
+brevioris ad ΟΒ longiorem est major dimidia proportione eversa ipsius
+MA tauto longioris ad LA breviorem. Ut si ΟΒ sit 20, LA 10, deinde
+CM 19, MA 11, proportione ad 19 major est dimidia proportione ip·
+sius ll ad 10, hoc est 22 ad 20. Νειιι proportio 22 ad 20 habet
+duo elementa, 22 ad 21 ει 21 ad 20, quorum utrumque miuus εει
+proportione 20 ad 19. Est igitur proportio MA ad LA ει sic quadrati
+HA ad quadratum GA minor quam dupla ‘proportionis ΟΒ ad ΟΜ.
+
+Sed rectarum ipsarum HA ad GA proportio est dimidia quadratorum, .
+
+et duplae proportionis dimidia εει simpla. Ergo altitudinis HA ad
+altitudinem GA proportio minor est, quarn LO ad ΜΟ, proportio basium.
+Rectangulum igitur sub HA, ΟΜ, repraesentans cylindrum CHA, minus est
+rectangulo sub GA, ΟΒ, repraesentante cylindrum CGA, quia ΟΜ εει
+brevior in sua proportione, HA longior in sua.³³)
+
+Idem demonstratur versis argumentis etiam de cylindro CBA. ’
+Nam proportio ΟΚ longioris ad ΟΒ breviorem εει minor. quam dimidia
+proportionis eversae ΑΚ brevioris ad AL longiorem. Ut si ΟΒ sit 20,
+LA 10, deinde ΟΚ 21, KA 9. Propertio 20 ad 21 minor εει quam
+dimidia ipsius 9 ad 10, rel 18 ad 20. Νειιι proportionis 18 ad 20‚elementa
+duo, 18 ad 19 ει 19 adid, sunt singulamajora proportione 20 ad 21. Pro·
+portio igitur LA ad ΑΚ, hoc est quadrati GA ad quadratum AB maj0r
+est quam dupla‘ KG ad CL: et sie linearum GA ad AB proportio major
+est quam' ΚΟ ad ΟΒ; uec quanto BA brevior est ipsa ΟΛ in propor-
+tione sua, tanto vicissim longior est ΟΚ quam CL iu sua; et rcotangu·
+lum sub BA, 01< minus est rectangulo sub GA, CL; cylinder igitur CBA
+minor cylindro CGA, solus igitur CGA omnium maximus.
+
+Corollarium I. Delia cylindrecea sina ventre, sive longioris fuerint
+figurae quam Austriace, aire curtioris, minus arnt capacia scenicus.-
+
+Gorollerium 1r Patet hinc, bonoquodam et geometrico genio esse sac·
+tum, quod Austriaci rietorea regulam hanc observent construendi dolii, ut tertia
+
+39*
+
+ 
+

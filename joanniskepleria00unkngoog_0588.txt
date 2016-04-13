@@ -1,0 +1,61 @@
+stereometria Archlmedea. 567
+
+segmenti a plano ιιιιιιι rma, manea ru vu ιιι amasse aas
+
+circuli lS, secans HDK in S, et ab S per Α ducatur semidiameter‚
+
+eamque ad rectos secet recta ex K, quae sit ΚΤ, sectio R. Hoc iacto ¹
+
+fiant rectangula tria: primunr sub AD semidiametro et DL altitudine
+s'eu diametro globi totius, quod repraesentabit soliditatem totius globi;
+secundum suh AD semidiametro et DI altitudine segmenti, quod'reprae-
+certabit soliditatem sectoris sphaerae narn, tertium ex Al (altitudine
+coni ΗΚΛ) iu RS, quod dieo repraesentare rat '
+iu eadem proportione conum ΗΙΚΑ solidum,
+itaque sicut conus ΗΙΚΑ ablatus a sectore
+ΗΑΚι) relinquit segmentum HIKD, sic etiam
+tertium reetangulum ablatum a secundo relin-
+quet planum aequeralens in eadam propor-
+tione segmento sphaerae HIKD.
+
+Quodsi segmentum sit majus hemisphaerio, Ἴ
+sc. HKL, pro DI sumenda est IL insecandi ’
+rectanguli formatione, et ad idest addendum
+rectangulum suh Al, RS, constituaturque pla· Β ·
+num aequevalens segmento HIKL majori.
+
+Demonstratio. Primnm'inter lineas DI,
+lh et ·DL est proportio segmentorum super·
+ficiei et totius ¹(per Vlll). Ergo etiam inter ·
+attii ‘bibli llildnpiillihffll'll
+sectorum ΗΑΚΙ), HAKL et globi totius est
+eadem inter se mutuo proportio, quae super·
+ficiernm HDK, KLH 'et totius. Ergo et iuter
+iac'tarectangula est proportio sectorum HAKD, '
+HAKL. Deinde Al) altitudo ducta in basin
+circularem, aequalem superficiei segmenti
+HDK, eujus semidiameter ΚΙ) (per vll),
+creat cylindrum, triplum coni aequalis sectori
+HDKA3 et AI altitudo ductainbasin HK'circu· ·
+larem, cnjus semidiameter Kl, creat itidem triplam coni ΗῙΚΑ. ht ’
+ιιι cirmrlus radio ΚΙ) ad circulum radio ΚΙ vel ΚΒ, sio etiam quadratum
+ΚΙ) ιιι quadratum Ka: ut sero quadratum ΚΙ) ιιι quadratum ΚΒ, sic
+DI reeta ad SR (per VII). Ergo proportio basium circularium, per
+ΚΙ) et KS descriptarum, est etiam Ι proportio linearum DI, SR. Sed
+proportio sonorum est composita ex proportione altitudinum et pro·
+. portione basium, ut habet Archimedes Xl. Sphaeroideon. Ergo proportio
+llDKA sectoris et ΗΙΚΑ coni in 'eo est composita er proportione Ab
+ιιι ΑΙ, et DI ad SR. Est autem stiam rectangnloru'm proportio com·
+posita ex proportione laterum correspondentiam. Quare proportio
+HDKA sectoris et ΗΙΚΑ coni in eo est eadem quae rectangulcrum
+sub AD, DI ¹et sub sl, SR, Ac proinde ipsa suntad mutuam eorum
+differentiam, ut sector 11th et conus in eo Hlllh ad mutuam eorum
+differentiam,¹ scilicet ad HIKD segmentum. Haec methodus concernit
+
+potissimum conum HIKA, qui est communis differentia, qua segmenta .
+
+differunt a suis sectoribus, quem conum interdum operae pretium est
+notum habere ¹²).
+
+ 
+

@@ -1,0 +1,70 @@
+606 Secunda Pars.
+
+. narrum per axem, ro usmete nass: enea igimr mco am in rc '
+
+diametrum basis, creatur parallelepipedum rectangnlum, quod cylindrum
+. stringit. Ut igitur 14 ad ll, sichoc parallelepipedum ad cylindri suissror·
+pus, per theor. lH. praemissae stereometriae regularium. Ergo in qua
+figura ex iis, quae habent eandem diagonion AC, maximum est hoc
+parallelepipedum, ibi et , cylinder est maximus. At in ligura cujus
+Alo est dimidia sectio, non-est maximum hoc parallelepipedum, quan·
+tumvis area sectrix Alco sit maxima: quod sic demonstro. ·
+
+Sit in quadrante lA punctum H proximum puncto Ι, quippe ad ,
+finem quadrantis. cum ergo AHC sit alia figura, quam Alc, et lra- ’
+beat eandem cum illa diagonion AC, sint vero AIC, AHG areae sd se ¹
+
+invicem, ut perpendiculares earum IN, HM: erunt in fine quadrantis
+inter se in minima proportione et proxime aequales, qnia etiam lineae
+IN, llll, intervallo certo inter se remotae, in minima adinvicem sunt ζ
+¹ proportione3 quae proportio inter easdem semper e’radit major. qno ¹
+propius illae ad A, initium quadrando, eodem inter ipsas intervallo
+
+manente, accesserint. Atqui, ut corpus creetur, lineae cl, CH ducendae ³
+
+sumt in areas Alc, AHG, et per aequipollentiam, ut rectangulum snb
+
+M, lo ad rectangulum sub ΜΗ, HC, sic eorpus parallelepipedi AlCl l
+ad corpus ΑΗΟΗ, atqui major est proportio HG ad CI, quam IN ad ¹
+‘HM3 uam Gl subtendit quadrantem, CH paulo plus, et ipsamm dimidia l
+sunt perpendiculares dimidii quadrantis et paulo plus: illae veronen ¹
+sunt in minima inter se proportione, quippe quae in medio quadrantis t
+major est quam iu fine, eodem utrinque perpendicularium intervallo 3
+
+supposito. Ergo existente eodem perpendicularium intervallo, quod sit
+intestini: Addidit difinfilimffiilmqidlllil
+
+timentes etiam dimidio arom HI. Et cum dimidiarum CI, GH dide .
+
+nentia sit major, quam perpendicularium adl, quae dimidio meus HI
+distant, totarum igitur cI, CH differentia, prioris duplex, erit major,
+
+. quam perpendicularium IN, HM, toto arcu HI distantium. Ita conli-
+
+citur, maiorem esse differentiam inter Io et GH, quam iuterHM et IN.
+Itaque, etsi HM secundae figurae est paulo. minor quam IN primae:
+vicissim tamen CH secundae figurae est multo major quam CI primae.
+Majus est igitur rectangulum MHG quam NIG, et sio major cylinder
+ejusque parallelepipedum AHCH, quam AICI, cum e contrane ipsius
+cylindri AHCH area sectrix AHC minor antea luerit quam Aio, Non
+eat igitur proportio corporum AICI, AHCH analoga proportioni area·
+rum AIG, AHO. Et AIG quidem est maxima arearum super eadem
+diagonio, eorpus vero AIGI non est maximum, sed AHCH est eo majus.
+
+Praxis et per eam successus.
+
+Cum corpora ex 1 adhuc crescant versus H, inquisivi logistica, ubi esset
+
+corpus maximum non enirn crescit corpus continue usquein A, sed in ricinia ’
+
+ipsius A rursum attenuatur, et una cum area ABG tandem inA in nihilum redi·
+gitur, quando altitudo cylindri, analogice loquendo, punctum est, sc. A, diameter
+vero basis AC, coincidens cunr diagonio.
+
+Processus hic fuit: sinum arcus ΑΗ, AB multiplicari iu sinum dunidii mus
+Hc, BC per omnes' quadrantis gradus ordine. Cum autem sit taediosa multipli-
+catio sinuum, accipe processum breuiorem: sit diagonios 20, quadratum 400, sit
+altitudo AG 1, quadratum l; hoc ablato adeo, restat quadratum ipsius GC 399:
+
+ 
+

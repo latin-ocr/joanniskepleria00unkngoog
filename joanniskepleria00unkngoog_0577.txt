@@ -1,0 +1,65 @@
+556 Ι Prima Pars.
+
+Cum igitur dolia duania circulo, cono et cylindro, figuris regula·
+ribus, participent, apta sunt hacteuusppd geometricas dimensiones,
+quarum principia operae pretium est in vestibulo hujus speculationis ¹
+collocare, ut illa ab Archimede sunt investigata, quantum quidem hujus ’
+ad oblectationem animi geometriam anmntis sufficiet: absolutae enim
+et omnibus numeris perlectae demonstrationes petendae sunt ex ipsis ‚¹
+libellis Archimedem, siquis a spinosa lectione eorum non abhorruerit. ,
+
+Liceat tamen in quibusdam locis, quae nou attigit Archimedes,¹
+nssfnihss mmorari, nt inveniant et doctiores quibus juventur seseque
+'c ectent. ’
+
+PRIMA PARS.
+’ clavorum Recrdarium stereometria.
+
+'lheorema 1.
+
+Principio requirebatur cognitio proportionis circumscrehtiae ad
+diametrum Et docuit Archimedes:
+
+Rationem circumferentiae od ἀὶαοηοίοοοέά ease proxime corre, quoe cst
+aramei 22 7.
+
+Ad hoo demonstrandum usus est figuris circulo inscriptis et circum·
+scriptis3 quae cnm sint atrise, nos facilitatis causa utemur sexangula. ’
+Sit enim in circulo CBD regulare anangulum,
+
+cujus engrati C, D, B, latus Ι)Β, et tangant cir·
+
+¹ culum duae rectae in D et B coeantque ad com·
+
+munem sectionem F: et centrum A cum F oon·
+
+‘ 3 nectatur linea AF, quae secet rectam Ι)Β in G,
+
+arcum Ι)Β in E. Cum igitur DGB 'sit recta, id
+
+est ductus aD inB brevissimus, DEB vero arcus,
+
+id est ductus a D in B non brevissimus, longior
+
+igitur est DFB, quam DGB. Econtra cum recta
+
+BF tangat circulum, omnes igitur partes arcus ΕΒ sunt intra FB
+versus GB: quodsi ΕΒΙ esset recta, omnino brevior esset, quam FB.
+Nam ΑΕΒ, F ΕΒ. anguli sunt aequipollentes recto, cum EFB sit acutus,
+ergo ΕΒ subtensa minori angulo EFB minor est quam FB, quippe
+quae majori est subtansa. Licet autem argumentari de ΕΒ ut de reeta,
+quisvis demonstrationis secat circulum in arcus minimos, qui aequi·
+parantur rectis. Quanquam inter ee, quae communi sensu sunt nota¹
+'recipi potest, arcum DEB, intra triangulum DBF, minorem esse lineis
+
+' DF, FB, quippe qui cum flectatur versus angulum DF B, naham tamen
+
+particulam habet extra lineas DF, FB: comprehendens autem seusu =
+fflffifflmeieffiofflfghffi Secus haberet, si arcum ΗΕΒ esset
+
+(lum igitur Ι)Β sit latus inscripti sexanguli ct DF, FB sint duae ἵ
+medietates circumscripti sexanguli, arcus BEB erit circuli pars sexta3
+major vero erat quam Ι)Β, minor quam DF, FB, sex igitur lineae Ι)Β
+
+ 
+

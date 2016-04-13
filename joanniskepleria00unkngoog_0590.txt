@@ -1,0 +1,60 @@
+Sternumenta Archimeden. 569
+
+Ergo area ellipsis NA ad aream circuli ΝΥ est proportionis solidorum
+GNA ad GNY pars nna. hest autem harum arearum proportio (per
+{equisagma 2. ad th. 11.) in reetangulo diametrorum ellipsis et quadrato
+
+Y, tanquam notioribus, Pars altera proportionis corporum est inter
+GZ‚ altitudinem segmenti GNA super plano NY, et (ΥΒ, altitudinem coni
+NGY superplena ΝΥ. Multiplicatis igitur in se mutuo torminis proportio·
+num ΖΘ in GB, et rectangulo diametrorum ellipsis NA in quadratum
+NY: ut ¹posterior iactus ad priorem, sic est eorpus coni NGY ad corpus
+segmenti GNA. Potest etiam quodque seorsim computari, ut GNA, ducta
+altitudine ,ΟΖ iu planum ellipsis NA, prodit triplum corporis GNA.
+
+x Iu specie, siplenum secansparallelum fuerit basi NY: proportio
+corporum, ¹segmenti et totius, erit triplicata altitudinum rel ’
+radioruin in basibus· circularibus, rel sescuplicato planorum.
+’ Nimirum, quia boe pacto segmentum verticale et conum totus fiunt
+solida similia, multiplicatis igitur cubiee singulis seorsim, rel altitu·
+dinibus rel radiis basium, erit ut numerus cubicus major ad minorem,
+sic conus totus ad segmentum. Aut si sola plana besson nota esseut,
+quaeruntur illorum radices multiplicanturque iu illa.
+
+Quod truncos attinet, facilis est ex dietis illos inquirendi metho-
+dus. Ex unc enim modorumpraemisscrum computatur et contis reluti
+totus et segmentmn verticale deficiens, ex data uel altitudine rel basis
+radio. Quodsi nescitur ejus, ut deficientis, altitudo, siquidem ea
+fuerit epure, quaeritur ex comparatione basium trunci eum altitudine;
+ut enim differentia radiorum in basibus ad altitudinem (si truncus sub
+planis perpendicularibus fuerit), sic radius basis· minoris ad altitudinem
+segmenti deficientis3 ablato igitur corpore segmenti deficientis a cono
+toto, relinquitur corpus trunci quaesitum.
+
+Iu his rere truncis, qui sub parallelis basibus continentur, rursum
+estbrerior methodus, ut prins. Nam 'quia bases talium truncorum
+ignorari nou possunt, earum diametri (quaelibet iu se ipsam) multipli-
+cantur cubice, et ablato cubo minori a majore, erit ut maximus ad dii·
+larentiam, ita conns totus ad truncum. · Ι
+. Clarius (monothelitarum Lib. v. 3) alium docet modum, iugenio·
+siorem quidem, sed et difficiliorem, ut mihi ridetur. Non minus enim
+quam supra computanda est area basis utriusque3 etjam hoc iusuper
+accedit, quod quaerenda est area medio loco proportionalis iuter planum
+utriusque basis. ld'autem iit rel multiplicatione et divisione numero·
+rum prolixorum rel duabus extructionibus radicum earumque multipli-
+catione: tunc addenda omnia tria planaetsumma in trientem altitudinis
+trunci multiplicanda. Atqui ex radiis circulorum, ' qui requiruntur
+ad investigationem arearum, multo faciliori negotio potest haberi
+quiquid quaeritur. '
+
+uum autem truncorum conicorum, qui fiunt plano ad axem recto,
+multiplex sit usus et praesenti materiae cumprimis necessarius, ob
+‹loliormn figuram, subjungam hic pulcherrimum theorema et compendium
+exoptatissimum etsi demonstrationem, cognationis causa, differo debr·
+sum in Supplementum Archimedeae Stereometriae et th.¹ XXII. uivi-
+ditur autem trtmcus in medium cylindrum et circumjectum ei corticum
+veluti tunicam, quae segmentum est coni dissimile superiorum, sc. super·
+licie oyundrica iactum: ergo, si tres diametri, duae basis minoris,
+
+ 
+

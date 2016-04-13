@@ -1,0 +1,61 @@
+murmanis Archimeden 571
+
+sltitrrdinie, ri ejusdem explicationis corporum rotundorum in rectumz
+
+sequitur, utet sementa usta segmenti, quorum boeio est semicirculus,
+sint altitudinibus sois proportionalia, etsie iuter se in omni altitudine
+retineant proportionem eandem ad cylindri segmentum acquealtum,
+quae est totius rel primi segmenti ad totum aeqnealtum cylindrum,
+sc. 7 ad 33. Idem enim locum habet etiam in segmentis segmenti,
+quornm basis est circulus; semper euim segmentum bec basi, sive cltum
+sive humile, est cylindri sui aequealti dimidium. Quibus uero bases
+non sunt circulus et semicirculus, sed alia circuli segmenta, illis bases
+' itidem istae singulae singulas concilient proportiones. Itaque etiam
+de his cylindraceorum ’ segmento'rum segmentis valet axioma, non
+muns 'quam de conis et pyramidibus, quod, qnae insistant eidem
+{segmento circulit,·sin·t intler se ut elt{tudtinos; quae lvterto edidere ,
+incas segmonr circu arrs, sru u segm. a ru rurs
+respondentia. , ¹
+
+Denique cylindri, per sliam superficiem cylindricum eodem aro
+secti, limbus exterior diuiditur e superficie conica, cujus sunt bases,
+infera circrdus amplior, ¹supera angustior, in dub norae speciei segmenta
+circularia, quorum interius theor.' priore tunicam appellavimus, puts
+cylindri angustioris ’ ·
+
+Horum igitur limbi segmentornm proportio inter se est qnae due·
+rum medietatum arithmeticamm, quae constituuntur inter diametrum
+minorem et diametrum majorem.
+
+Diriso enim numero, pute diametri majoris, in partes duas, in
+diametrum minorem et in exbessum, factisque quadratis, tam a minore
+quam s majore, majus quidem quadratum continebit partes quatuor,
+1) quadratum minoris, 2) quadratum differentiae et ¹3) 4) rectangula
+duo submisere et differentia. Triplicatis deinde quadratis, existent
+pro majoris triplo tria minoris, tria differentiae et sex rectcngula. Et
+baec tria quadrata differentiae cum sex rectangulis sunt differentia*
+tota quadratorum triplicatorum. Quare nt quadrata ad suos circulos
+adque cylindros aequceltos‚ sic baec differentis ad limbum cylindricum
+totum. Atqui theos. antecedenti differentiam jussi sumus multiplicare
+in unam maJ'orem ot duas minores, id est in se ipsam et in tres
+minores, pro parte limbi interiore, quae tunica fuit indigetata. Ableto
+igitur quadrato differentiae uno et tribus rectangulis aquaductio tribus
+et sex recteugulis, restant quadrata differentiae-duo et tris rectengula
+pro reliquo limbi. Est autem trium rectengulorum et unius quadrati
+ad tria rectangnle et duo quadrata proportio eadem, quoe trium mi·
+norum cum une differentia ad tres minores cum duabus differentiis '
+cademque, quae unius minoris cum parto tertie differentiae ad unam
+minorem cnm duabus tertiis differentiae. At si ad minorem addis primo
+partem unam, post partes duas differentiae, constituis duo media arithme-
+tice inter minorem et majorem. Atque idest, quodproposueramus.¹⁶)
+
+corollarium 1. et praxis. Hinc faede habstbr proportio trunci conici
+ad cylindros, trunco inscriptum et circumscriptum Interdiamecros constitue duo
+media arithmetica et multiplica differentiam totam diametrorum in borum miuus
+pro tunica, quem indue cylindro minori, hoc est addc quadrato gjus diametri pro
+
+trunco. Ecce exemplum: sint diametri 8. deditiorentia 2, quae uon communicat cum
+tomulo. Ergo subrutus triplos 9, 1o; &denuda 6, quaestam menet proportio.
+
+ 
+
